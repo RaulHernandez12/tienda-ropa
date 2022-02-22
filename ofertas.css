@@ -1,0 +1,16 @@
+main h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+figure img {
+    margin: 0px;
+    width: 100%;
+    
+}
+
+figcaption {
+    margin-top: 10px;
+    font-size: 20px;
+    color: brown;
+}
